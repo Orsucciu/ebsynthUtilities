@@ -12,3 +12,6 @@ ebsynth-EbSynth.exe
        -vcomp140.dll
        
 The mask generation uses the code from : https://www.codepasta.com/computer-vision/2019/04/26/background-segmentation-removal-with-opencv-take-2.html
+
+Usage :
+RUn the powershell script. Select a video file, the script will output its results in a folder named after our video file.
